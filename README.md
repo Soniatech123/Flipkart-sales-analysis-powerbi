@@ -78,4 +78,4 @@ Business & Data Analytics Enthusiast
 
 🔗 LinkedIn: https://www.linkedin.com/in/soniadadwal/
 
-📁 GitHub: (add your repo link here after upload)
+📁 GitHub: https://github.com/Soniatech123/Flipkart-sales-analysis-powerbi/tree/main
