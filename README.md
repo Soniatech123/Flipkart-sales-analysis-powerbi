@@ -1,4 +1,4 @@
-📊 Flipkart Laptop Sales Analysis | Power BI Project
+📊 Flipkart Laptop Sales Analysis | Power BI End-to-End Dashboard Project
 
 Project Overview-
 
